@@ -2,7 +2,8 @@
 
 For 5.3 版本
 
-這個語系檔來自 https://code.google.com/p/whmcs-cht/ 並經過重新校對與潤飾。
+這個語系檔來自https://github.com/asika32764/whmcs-zhtw-language-pack並經過註解未翻譯句子，以保證未來的相容性，本檔案請用覆蓋的方式進行使用。
+若要翻譯，可以取消註解或是加入新版本的值
 
 ## 發票 PDF 專用字體
 

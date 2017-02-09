@@ -1,6 +1,6 @@
 # WHMCS 繁體中文 (zh-TW Chinese) 語言檔
 
-For 5.3 版本
+From 5.3 版本，預計會更新到7.1版本
 
 這個語系檔來自https://github.com/asika32764/whmcs-zhtw-language-pack 並經過註解未翻譯句子，以保證未來的相容性，本檔案請用覆蓋的方式進行使用。
 若要翻譯，可以取消註解或是加入新版本的值。
